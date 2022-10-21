@@ -8,8 +8,8 @@
 
 ## Contribution
 
-![snake](./assets/github-contribution-grid-snake-Ohto-Ai.svg)
-![snake](./assets/github-contribution-grid-snake-beiklive.svg)
+![snake](/assets/github-contribution-grid-snake-Ohto-Ai.svg)
+![snake](/assets/github-contribution-grid-snake-beiklive.svg)
 
 ## Maintainers
 
