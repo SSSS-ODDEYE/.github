@@ -24,4 +24,4 @@ jobs:
         with:
           branch: master
           message: "Generate Contribution Snake for ${{ matrix.owner }}"
-          default_author: ${{ matrix.owner }}
+          default_author: user_info
