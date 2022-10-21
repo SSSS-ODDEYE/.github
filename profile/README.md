@@ -6,6 +6,11 @@
 
 <kbd>Ctrl</kbd>+<kbd>W</kbd> to see content
 
+## Contribution
+
+![snake](./assets/github-contribution-grid-snake-Ohto-Ai.svg)
+![snake](./assets/github-contribution-grid-snake-beiklive.svg)
+
 ## Maintainers
 
 [@beiklive](https://github.com/beiklive)  
