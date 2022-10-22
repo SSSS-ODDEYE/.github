@@ -20,8 +20,7 @@ jobs:
           gif_out_path: ./assets/github-contribution-grid-snake-${{ matrix.owner }}.gif
           svg_out_path: ./assets/github-contribution-grid-snake-${{ matrix.owner }}.svg
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: master
-          message: "Generate Contribution Snake for ${{ matrix.owner }}"
-          default_author: user_info
+        run: |
+          git commit -a -m "Generate Contribution Snake for ${{ matrix.owner }}"
+          git pull --rebase
+          git push --force
