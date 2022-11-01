@@ -12,11 +12,13 @@
 ![snake](/assets/github-contribution-grid-snake-Ohto-Ai.svg)
 ------
 ### Ohto-Ai
-![snake](/assets/github-contribution-grid-snake-beiklive.svg)
+![snake][gh-snake-Ohto-Ai:img]
 ------
 
 ## Maintainers
 
 [@beiklive](https://github.com/beiklive)  
 [@Ohto-Ai](https://github.com/Ohto-Ai)
+
+[gh-snake-Ohto-Ai:img]: https://github.com/Ohto-Ai-Dev/res/raw/master/assets/Ohto-Ai/github-contribution-grid-snake.svg
 
