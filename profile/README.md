@@ -9,7 +9,7 @@
 ## Contribution
 
 ### beiklive
-![snake](/assets/github-contribution-grid-snake-Ohto-Ai.svg)
+![snake][gh-snake-beiklive:img]
 ------
 ### Ohto-Ai
 ![snake][gh-snake-Ohto-Ai:img]
@@ -21,4 +21,5 @@
 [@Ohto-Ai](https://github.com/Ohto-Ai)
 
 [gh-snake-Ohto-Ai:img]: https://github.com/Ohto-Ai-Dev/res/raw/master/assets/Ohto-Ai/github-contribution-grid-snake.svg
+[gh-snake-beiklive:img]: https://github.com/Ohto-Ai-Dev/res/raw/master/assets/beiklive/github-contribution-grid-snake.svg
 
