@@ -7,7 +7,7 @@ jobs:
   build:
     strategy:
       matrix:
-        owner: ['Ohto-Ai', 'beiklive']
+        owner: ['beiklive']
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
